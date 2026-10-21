@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+dist/
+work/
+audio/
+transcripts/
+.env
+.github-token

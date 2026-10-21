@@ -1,0 +1,3 @@
+deck_name: "French A1 (NLF)"
+listening_cards: true        # audio-only card per word/phrase; false cuts daily load by a third
+voice: fr-FR-DeniseNeural    # or fr-FR-HenriNeural

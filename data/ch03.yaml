@@ -1,0 +1,313 @@
+chapter: 3
+title: Numbers & Liaison
+videos:
+- https://youtu.be/ELKYyuzFC4A
+vocab:
+- id: c03-v001
+  fr: zéro
+  en: '0'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v002
+  fr: un
+  en: '1'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v003
+  fr: deux
+  en: '2'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v004
+  fr: trois
+  en: '3'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v005
+  fr: quatre
+  en: '4'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v006
+  fr: cinq
+  en: '5'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v007
+  fr: six
+  en: '6'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v008
+  fr: sept
+  en: '7'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v009
+  fr: huit
+  en: '8'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v010
+  fr: neuf
+  en: '9'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v011
+  fr: dix
+  en: '10'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v012
+  fr: onze
+  en: '11'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v013
+  fr: douze
+  en: '12'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v014
+  fr: treize
+  en: '13'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v015
+  fr: quatorze
+  en: '14'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v016
+  fr: quinze
+  en: '15'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v017
+  fr: seize
+  en: '16'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v018
+  fr: dix-sept
+  en: '17'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v019
+  fr: dix-huit
+  en: '18'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v020
+  fr: dix-neuf
+  en: '19'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v021
+  fr: vingt
+  en: '20'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v022
+  fr: trente
+  en: '30'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v023
+  fr: quarante
+  en: '40'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v024
+  fr: cinquante
+  en: '50'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v025
+  fr: soixante
+  en: '60'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v026
+  fr: vingt et un
+  en: '21'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v027
+  fr: vingt-deux
+  en: '22'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v028
+  fr: vingt-sept
+  en: '27'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v029
+  fr: trente et un
+  en: '31'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v030
+  fr: trente-quatre
+  en: '34'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v031
+  fr: soixante-huit
+  en: '68'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v032
+  fr: soixante-neuf
+  en: '69'
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v033
+  fr: le chiffre
+  en: digit (0 to 9)
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c03-v034
+  fr: le nombre
+  en: number (10 and up)
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c03-v035
+  fr: la liaison
+  en: linking sound between two words (deux‿euros)
+  gender: f
+  example_fr: ''
+  example_en: ''
+- id: c03-v036
+  fr: l'enfant (m/f)
+  en: child
+  gender: ''
+  example_fr: Ils ont trois enfants.
+  example_en: They have three children.
+- id: c03-v037
+  fr: l'ami / l'amie
+  en: friend (m / f)
+  gender: ''
+  example_fr: Nous avons quatre amis.
+  example_en: We have four friends.
+- id: c03-v038
+  fr: le chat
+  en: cat
+  gender: m
+  example_fr: Vous avez six chats.
+  example_en: You have six cats.
+- id: c03-v039
+  fr: le chien
+  en: dog
+  gender: m
+  example_fr: Elles ont sept chiens.
+  example_en: They have seven dogs.
+- id: c03-v040
+  fr: l'euro (m)
+  en: euro
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c03-v041
+  fr: le kilo
+  en: kilo
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c03-v042
+  fr: la baguette
+  en: baguette (French bread)
+  gender: f
+  example_fr: ''
+  example_en: ''
+- id: c03-v043
+  fr: le t-shirt
+  en: T-shirt
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c03-v044
+  fr: coûter
+  en: to cost
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c03-v045
+  fr: peser
+  en: to weigh
+  gender: ''
+  example_fr: ''
+  example_en: ''
+phrases:
+- id: c03-p001
+  fr: Il a un an.
+  en: He is one year old.
+- id: c03-p002
+  fr: La baguette coûte deux euros.
+  en: The baguette costs two euros.
+- id: c03-p003
+  fr: Ils ont trois enfants.
+  en: They have three children.
+- id: c03-p004
+  fr: Nous avons quatre amis.
+  en: We have four friends.
+- id: c03-p005
+  fr: Elle pèse cinq kilos.
+  en: She weighs five kilos.
+- id: c03-p006
+  fr: Vous avez six chats.
+  en: You have six cats.
+- id: c03-p007
+  fr: Elles ont sept chiens.
+  en: They (f) have seven dogs.
+- id: c03-p008
+  fr: Ce t-shirt coûte huit euros.
+  en: This T-shirt costs eight euros.
+- id: c03-p009
+  fr: Elle a neuf ans.
+  en: She is nine years old.
+- id: c03-p010
+  fr: Elle a quinze ans et il a seize ans.
+  en: She is 15 and he is 16.
+- id: c03-p011
+  fr: Elle a trente-quatre ans, il a vingt-sept ans.
+  en: She is 34, he is 27.
+- id: c03-p012
+  fr: Je pèse soixante-huit kilos.
+  en: I weigh 68 kilos.
+conjugations: []

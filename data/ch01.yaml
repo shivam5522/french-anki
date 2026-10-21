@@ -1,0 +1,235 @@
+chapter: 1
+title: Alphabet & Pronunciation
+videos:
+- https://youtu.be/fczq-XzFrg4
+vocab:
+- id: c01-v001
+  fr: bonjour
+  en: hello
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c01-v002
+  fr: au revoir
+  en: goodbye
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c01-v003
+  fr: merci
+  en: thank you
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c01-v004
+  fr: le café
+  en: coffee; café
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v005
+  fr: le bébé
+  en: baby
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v006
+  fr: le chocolat
+  en: chocolate
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v007
+  fr: la salade
+  en: salad; lettuce
+  gender: f
+  example_fr: ''
+  example_en: ''
+- id: c01-v008
+  fr: le fruit
+  en: fruit
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v009
+  fr: l'igloo (m)
+  en: igloo
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v010
+  fr: le restaurant
+  en: restaurant
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v011
+  fr: le rat
+  en: rat (final t is silent)
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v012
+  fr: le bus
+  en: bus
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v013
+  fr: la télévision
+  en: television
+  gender: f
+  example_fr: ''
+  example_en: ''
+- id: c01-v014
+  fr: le taxi
+  en: taxi
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v015
+  fr: le sandwich
+  en: sandwich
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v016
+  fr: le yaourt
+  en: yogurt
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v017
+  fr: le zèbre
+  en: zebra
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v018
+  fr: le matin
+  en: morning
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v019
+  fr: le / la journaliste
+  en: journalist
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c01-v020
+  fr: le kiwi
+  en: kiwi
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v021
+  fr: le lion
+  en: lion
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v022
+  fr: l'amour (m)
+  en: love
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v023
+  fr: le piano
+  en: piano
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v024
+  fr: la question
+  en: question
+  gender: f
+  example_fr: ''
+  example_en: ''
+- id: c01-v025
+  fr: le copain
+  en: friend, pal (informal)
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v026
+  fr: le homard
+  en: lobster (the h is silent)
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v027
+  fr: la gym
+  en: gymnastics
+  gender: f
+  example_fr: ''
+  example_en: ''
+- id: c01-v028
+  fr: la fête
+  en: party
+  gender: f
+  example_fr: ''
+  example_en: ''
+- id: c01-v029
+  fr: la lumière
+  en: light
+  gender: f
+  example_fr: ''
+  example_en: ''
+- id: c01-v030
+  fr: la neige
+  en: snow
+  gender: f
+  example_fr: De la neige.
+  example_en: Some snow.
+- id: c01-v031
+  fr: l'examen (m)
+  en: exam
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v032
+  fr: demain
+  en: tomorrow
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c01-v033
+  fr: la fourchette
+  en: fork
+  gender: f
+  example_fr: ''
+  example_en: ''
+- id: c01-v034
+  fr: la fille
+  en: girl; daughter
+  gender: f
+  example_fr: ''
+  example_en: ''
+- id: c01-v035
+  fr: payer
+  en: to pay
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c01-v036
+  fr: le corps
+  en: body
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c01-v037
+  fr: rire
+  en: to laugh
+  gender: ''
+  example_fr: ''
+  example_en: ''
+phrases:
+- id: c01-p001
+  fr: S'il vous plaît.
+  en: Please. (formal)
+- id: c01-p002
+  fr: Je t'aime.
+  en: I love you.
+conjugations: []

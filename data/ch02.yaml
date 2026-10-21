@@ -1,0 +1,276 @@
+chapter: 2
+title: Introducing Yourself
+videos:
+- https://youtu.be/s2lXIWZfRtM
+vocab:
+- id: c02-v001
+  fr: salut
+  en: hi; bye (informal)
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v002
+  fr: bonsoir
+  en: good evening
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v003
+  fr: bonne journée
+  en: have a nice day (when leaving)
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v004
+  fr: enchanté / enchantée
+  en: nice to meet you (m / f)
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v005
+  fr: la bise
+  en: greeting kiss on the cheek
+  gender: f
+  example_fr: ''
+  example_en: ''
+- id: c02-v006
+  fr: je
+  en: I
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v007
+  fr: tu
+  en: you (one person, informal)
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v008
+  fr: il
+  en: he
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v009
+  fr: elle
+  en: she
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v010
+  fr: nous
+  en: we
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v011
+  fr: 'on'
+  en: we (informal); one
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v012
+  fr: vous
+  en: you (formal, or more than one person)
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v013
+  fr: ils
+  en: they (men, or a mixed group)
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v014
+  fr: elles
+  en: they (women only)
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v015
+  fr: être
+  en: to be
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v016
+  fr: avoir
+  en: to have
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v017
+  fr: visiter
+  en: to visit (a place)
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v018
+  fr: s'appeler
+  en: to be called (name)
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v019
+  fr: comment
+  en: how; what (in 'Tu t'appelles comment ?')
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v020
+  fr: quel âge
+  en: what age / how old
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v021
+  fr: l'an (m)
+  en: 'year (used for age: j''ai 30 ans)'
+  gender: m
+  example_fr: ''
+  example_en: ''
+- id: c02-v022
+  fr: français / française
+  en: French (m / f)
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v023
+  fr: algérien / algérienne
+  en: Algerian (m / f)
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v024
+  fr: chinois / chinoise
+  en: Chinese (m / f)
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v025
+  fr: marocain / marocaine
+  en: Moroccan (m / f)
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v026
+  fr: suisse
+  en: Swiss (m and f)
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v027
+  fr: albanais / albanaise
+  en: Albanian (m / f)
+  gender: ''
+  example_fr: ''
+  example_en: ''
+- id: c02-v028
+  fr: québécois / québécoise
+  en: from Quebec (m / f)
+  gender: ''
+  example_fr: ''
+  example_en: ''
+phrases:
+- id: c02-p001
+  fr: Ça va ?
+  en: How are you? / How's it going?
+- id: c02-p002
+  fr: Comment ça va ?
+  en: How are you?
+- id: c02-p003
+  fr: Ça va.
+  en: I'm fine.
+- id: c02-p004
+  fr: Ça va bien.
+  en: I'm good.
+- id: c02-p005
+  fr: Ça va, et toi ?
+  en: I'm fine, and you? (informal)
+- id: c02-p006
+  fr: Salut, ça va ?
+  en: Hi, how are you?
+- id: c02-p007
+  fr: Je m'appelle Mehdi.
+  en: My name is Mehdi.
+- id: c02-p008
+  fr: Tu t'appelles comment ?
+  en: What's your name? (informal)
+- id: c02-p009
+  fr: Vous vous appelez comment ?
+  en: What's your name? (formal)
+- id: c02-p010
+  fr: Je m'appelle Sylvie, et vous ?
+  en: My name is Sylvie, and you? (formal)
+- id: c02-p011
+  fr: Je suis français.
+  en: I am French. (man)
+- id: c02-p012
+  fr: Je suis française.
+  en: I am French. (woman)
+- id: c02-p013
+  fr: Tu viens d'où ?
+  en: Where are you from? (informal)
+- id: c02-p014
+  fr: Vous venez d'où ?
+  en: Where are you from? (formal)
+- id: c02-p015
+  fr: Je suis marocain, et toi ?
+  en: I'm Moroccan, and you?
+- id: c02-p016
+  fr: J'ai trente ans.
+  en: I am 30 years old.
+- id: c02-p017
+  fr: Tu as quel âge ?
+  en: How old are you? (informal)
+- id: c02-p018
+  fr: Vous avez quel âge ?
+  en: How old are you? (formal)
+- id: c02-p019
+  fr: J'ai vingt-cinq ans, et toi ?
+  en: I'm 25, and you?
+conjugations:
+- id: c02-c001
+  verb: être
+  en: to be
+  tense: présent
+  forms:
+    je: je suis
+    tu: tu es
+    il/elle/on: il/elle/on est
+    nous: nous sommes
+    vous: vous êtes
+    ils/elles: ils/elles sont
+- id: c02-c002
+  verb: avoir
+  en: to have
+  tense: présent
+  forms:
+    je: j'ai
+    tu: tu as
+    il/elle/on: il/elle/on a
+    nous: nous avons
+    vous: vous avez
+    ils/elles: ils/elles ont
+- id: c02-c003
+  verb: s'appeler
+  en: to be called
+  tense: présent
+  forms:
+    je: je m'appelle
+    tu: tu t'appelles
+    il/elle/on: il/elle/on s'appelle
+    nous: nous nous appelons
+    vous: vous vous appelez
+    ils/elles: ils/elles s'appellent
+- id: c02-c004
+  verb: visiter
+  en: to visit
+  tense: présent
+  forms:
+    je: je visite
+    tu: tu visites
+    il/elle/on: il/elle/on visite
+    nous: nous visitons
+    vous: vous visitez
+    ils/elles: ils/elles visitent

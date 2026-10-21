@@ -1,0 +1,39 @@
+name: Build deck
+
+on:
+  push:
+    branches: [main]
+    paths: ["data/**", "scripts/**", "config.yaml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write   # needed to publish the release
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # TTS clips are cached between runs, so only new words get generated
+      - uses: actions/cache@v4
+        with:
+          path: audio
+          key: audio-${{ hashFiles('data/**') }}
+          restore-keys: audio-
+
+      - run: pip install genanki edge-tts gTTS pyyaml
+
+      - run: python scripts/build.py
+
+      - uses: softprops/action-gh-release@v2
+        with:
+          tag_name: deck-${{ github.run_number }}
+          name: Deck build ${{ github.run_number }}
+          body: "Built from ${{ github.sha }}. Run update-deck.bat or import french-a1.apkg."
+          files: dist/french-a1.apkg
+          make_latest: true
